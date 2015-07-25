@@ -1,11 +1,19 @@
 package net.link404.minebattle;
 
+import org.bukkit.Bukkit;
+import org.bukkit.plugin.Plugin;
+
 public class Player {
 	
 	private String displayName;
-	private int kills;
-	private int deaths;
+	private int playerKills;
+	private int playerDeaths;
 	//private DateTime timeAlive;
+	
+	public Player(Plugin p)
+	{
+		// work with this later
+	}
 	
 	public String getDisplayName()
 	{
@@ -14,17 +22,17 @@ public class Player {
 	
 	public int getKills()
 	{
-		return kills;
+		return playerKills;
 	}
 	
 	public int getDeaths()
 	{
-		return deaths;
+		return playerDeaths;
 	}
 	
 	public double getKdRatio()
 	{
-		return kills/deaths;
+		return (playerKills/playerDeaths);
 	}
-
+	
 }
