@@ -1,4 +1,4 @@
-package main;
+package net.link404.minebattle;
 
 public class Player {
 	
@@ -26,4 +26,5 @@ public class Player {
 	{
 		return kills/deaths;
 	}
+
 }
