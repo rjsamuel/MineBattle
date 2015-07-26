@@ -6,4 +6,4 @@ commands:
   web:
     description: Displays our web links.
   anon:
-    send shit.
+    send stuff to ppl.
