@@ -1,9 +1,10 @@
 name: Minebattle
-main: net.link404.minebattle.App
+main: src.main.java.net.link404.minebattle.App
 version: 0.0.1
 
 commands:
   web:
     description: Displays our web links.
   anon:
-    send stuff to ppl.
+    description: send stuff to ppl.
+    usage: "/anon <player> <message>"
