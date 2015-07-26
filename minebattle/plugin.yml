@@ -1,3 +1,7 @@
 name: Minebattle
-main: net.link404.minebattle.app
+main: main.java.net.link404.minebattle.App
 version: 0.0.1
+
+commands:
+  web:
+    description: Displays our web links.
