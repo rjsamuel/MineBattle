@@ -1,5 +1,5 @@
 name: Minebattle
-main: main.java.net.link404.minebattle.App
+main: net.link404.minebattle.App
 version: 0.0.1
 
 commands:
