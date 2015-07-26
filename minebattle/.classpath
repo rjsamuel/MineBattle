@@ -22,7 +22,12 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/Nick/Desktop/Stuff/API 1.8-R0.1-SNP.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Nick/Desktop/Stuff/worldedit-bukkit-6.1 (1).jar"/>
+=======
+	<classpathentry kind="lib" path="C:/Users/EUFlux/Documents/GitHub/MineBattle/minebattle/API 1.8-R0.1-SNP.jar"/>
+	<classpathentry kind="lib" path="C:/Users/EUFlux/Documents/GitHub/MineBattle/minebattle/WorldEdit 6.1.jar"/>
+>>>>>>> origin/master
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
