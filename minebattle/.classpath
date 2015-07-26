@@ -23,6 +23,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Nick/Desktop/Stuff/API 1.8-R0.1-SNP.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Nick/Desktop/worldedit-bukkit-6.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nick/Desktop/Stuff/worldedit-bukkit-6.1 (1).jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
