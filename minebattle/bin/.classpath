@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/EUFlux/Documents/GitHub/MineBattle/minebattle/API 1.8-R0.1-SNP.jar"/>
+	<classpathentry kind="lib" path="C:/Users/EUFlux/Documents/GitHub/MineBattle/minebattle/WorldEdit 6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
